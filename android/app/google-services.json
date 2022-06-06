@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "603332936324",
+    "project_id": "whpro6633",
+    "storage_bucket": "whpro6633.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603332936324:android:bd3d214edf206643bdb8d1",
+        "android_client_info": {
+          "package_name": "com.whpro.whpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603332936324-acc5vvolefu5eocge839bdjkpgqb6krn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-2Hdnhyn8Dh_0rYwtYQB3x2YbyDbgRVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603332936324-acc5vvolefu5eocge839bdjkpgqb6krn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
